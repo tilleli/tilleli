@@ -6,13 +6,12 @@
       <img src="https://github.com/tilleli.png" width="180px" style="border-radius: 50%;" alt="Ider Tilleli"/>
     </td>
     <td>
-      <h3>🎓 Master 2 Intelligence Artificielle | Data Science & Computer Vision</h3>
+      <h3>🎓 Master’s Degree in Artificial Intelligence | Data Science & Computer Vision</h3>
       <p>
-        Étudiante en <strong>Master 2 Intelligence Artificielle</strong>, spécialisée en
-        <strong>Data Science</strong> et <strong>Computer Vision</strong>.
-        Je recherche un <strong>stage de fin d’études à partir de février 2026</strong>
-        pour appliquer mes compétences en analyse de données, modélisation et Deep Learning
-        appliqué à l’image.
+        Graduate student in <strong>Master’s in Artificial Intelligence</strong>, specialized in
+        <strong>Data Science</strong> and <strong>Computer Vision</strong>.
+        I am looking for a <strong>final-year internship starting February 2026</strong>
+        to apply my skills in data analysis, modeling, and Deep Learning applied to images.
       </p>
       <p>
         📍 Île-de-France &nbsp;|&nbsp; 📧 <a href="mailto:idertilleli@gmail.com">idertilleli@gmail.com</a>
@@ -23,95 +22,95 @@
 
 ---
 
-## 🚀 Compétences clés
+## 🚀 Key Skills
 
 ### 🧠 Computer Vision & Deep Learning
-- Object Detection : YOLOv8
+- Object Detection: YOLOv8
 - Super-Resolution (SSR)
-- CNN, traitement d’images
-- Évaluation de modèles
+- CNN, image processing
+- Model evaluation
 
 ### 📊 Data Science & Machine Learning
-- Analyse exploratoire de données
-- Classification, régression
-- Séries temporelles
-- XGBoost, optimisation d’hyperparamètres
+- Exploratory data analysis
+- Classification, regression
+- Time series analysis
+- XGBoost, hyperparameter tuning
 
 ### 🗣 NLP
-- Prétraitement de texte
+- Text preprocessing
 - Embeddings
 - BiLSTM
-- Intégration de LLM (Groq) pour classification sémantique
+- Integration of LLM (Groq) for semantic classification
 
-### ⚙ Data Engineering & Outils
-- Pipelines IA
+### ⚙ Data Engineering & Tools
+- AI pipelines
 - PySpark, SQL
-- Automatisation de flux de données
+- Data workflow automation
 - Git, Docker, Snowflake
 
 ---
 
-## 📂 Projets & Expériences
+## 📂 Projects & Experience
 
-### 🔍 Détection de fissures sur structures de bâtiment  
-**Projet académique | Nov. 2025 – En cours**
-- Développement d’un système d’IA pour la détection automatique,
-  la classification et la caractérisation des fissures.
-- Analyse d’images de structures avec contraintes de robustesse.
+### 🔍 Crack Detection on Building Structures  
+**Academic Project | Nov. 2025 – Present**
+- Developed an AI system for automatic detection,
+  classification, and characterization of cracks.
+- Image analysis of structures with robustness constraints.
 
-**Technologies :** OpenCV, PyTorch, TensorFlow, Snowflake, C++
-
----
-
-### 🌊 Détection automatique de déchets – YOLOv8 + Super-Resolution  
-**Stage de fin d’études – Caplogy | Avril 2025 – Septembre 2025**
-- Implémentation d’un système de détection automatique basé sur YOLOv8.
-- Intégration d’un module de super-résolution (SSR) pour améliorer
-  la qualité des images et la précision du modèle.
-- Tests et déploiement sur flux vidéo en temps réel.
-
-**Résultats :**
-- Précision : 0.90  
-- Rappel : 0.84  
-- mAP@50 : 0.87  
-
-**Technologies :** Python, OpenCV, PyTorch, YOLOv8, CUDA
+**Technologies:** OpenCV, PyTorch, TensorFlow, Snowflake, C++
 
 ---
 
-### 📨 Classification de spams avec NLP & LLM  
-**Université de Lorraine | Oct. 2024 – Fév. 2025**
-- Détection de spams avec un modèle BiLSTM.
-- Intégration d’un LLM (Groq) pour améliorer la classification sémantique.
-- Sauvegarde des prédictions dans une base de données SQL.
+### 🌊 Automatic Waste Detection – YOLOv8 + Super-Resolution  
+**Final-Year Internship – Caplogy | Apr. 2025 – Sep. 2025**
+- Implemented an automatic detection system using YOLOv8.
+- Integrated a Super-Resolution (SSR) module to enhance
+  image quality and model accuracy.
+- Tested and deployed on real-time video streams.
 
-**Technologies :** Python, Keras, BiLSTM, NLP, SQL, LLM (Groq)
+**Results:**
+- Precision: 0.90  
+- Recall: 0.84  
+- mAP@50: 0.87  
+
+**Technologies:** Python, OpenCV, PyTorch, YOLOv8, CUDA
+
+---
+
+### 📨 Spam Classification with NLP & LLM  
+**University of Lorraine | Oct. 2024 – Feb. 2025**
+- Spam detection using a BiLSTM model.
+- Integrated an LLM (Groq) to improve semantic classification.
+- Stored predictions in a SQL database.
+
+**Technologies:** Python, Keras, BiLSTM, NLP, SQL, LLM (Groq)
 
 ---
 
 ## 🛠 Technologies
 
-**Langages**
+**Languages**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-**IA & Data**
+**AI & Data**
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 
-**Outils**
+**Tools**
 ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🌍 Langues
-- Français : C1  
-- Anglais : B2  
-- Arabe : bilingue  
-- Kabyle : natif  
+## 🌍 Languages
+- French: C1  
+- English: B2  
+- Arabic: bilingual  
+- Kabyle: native  
 
 ---
 
@@ -121,6 +120,6 @@
 ---
 
 ## 📫 Contact
-- 📧 Email : [idertilleli@gmail.com](mailto:idertilleli@gmail.com)
-- 💼 LinkedIn : https://www.linkedin.com/in/tilleli-ider-b0ba18221
+- 📧 Email: [idertilleli@gmail.com](mailto:idertilleli@gmail.com)
+- 💼 LinkedIn: https://www.linkedin.com/in/tilleli-ider-b0ba18221
 
