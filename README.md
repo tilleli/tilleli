@@ -8,13 +8,12 @@
     <td>
       <h3>🎓 Master’s Degree in Artificial Intelligence | Data Science & Computer Vision</h3>
       <p>
-        Graduate student in <strong>Master’s in Artificial Intelligence</strong>, specialized in
-        <strong>Data Science</strong> and <strong>Computer Vision</strong>.
-        I am looking for a <strong>final-year internship starting February 2026</strong>
-        to apply my skills in data analysis, modeling, and Deep Learning applied to images.
+        Student in <strong>Master’s in Artificial Intelligence</strong>, specialized in
+        <strong>Data Science</strong>.
+        
       </p>
       <p>
-        📍 Île-de-France &nbsp;|&nbsp; 📧 <a href="mailto:idertilleli@gmail.com">idertilleli@gmail.com</a>
+         Île-de-France &nbsp;|&nbsp;  <a href="mailto:idertilleli@gmail.com">idertilleli@gmail.com</a>
       </p>
     </td>
   </tr>
@@ -22,37 +21,31 @@
 
 ---
 
-## 🚀 Key Skills
+##  Skills
 
-### 🧠 Computer Vision & Deep Learning
-- Object Detection: YOLOv8
-- Super-Resolution (SSR)
-- CNN, image processing
-- Model evaluation
-
-### 📊 Data Science & Machine Learning
+###  Data Science & Machine Learning
 - Exploratory data analysis
 - Classification, regression
 - Time series analysis
-- XGBoost, hyperparameter tuning
+- XGBoost
 
-### 🗣 NLP
+###  NLP
 - Text preprocessing
 - Embeddings
 - BiLSTM
 - Integration of LLM (Groq) for semantic classification
 
-### ⚙ Data Engineering & Tools
+###  Data Engineering & Tools
 - AI pipelines
-- PySpark, SQL
+- SQL
 - Data workflow automation
 - Git, Docker, Snowflake
 
 ---
 
-## 📂 Projects & Experience
+##  Projects & Experience
 
-### 🔍 Crack Detection on Building Structures  
+###  Crack Detection on Building Structures  
 **Academic Project | Nov. 2025 – Present**
 - Developed an AI system for automatic detection,
   classification, and characterization of cracks.
@@ -62,7 +55,7 @@
 
 ---
 
-### 🌊 Automatic Waste Detection – YOLOv8 + Super-Resolution  
+###  Automatic Waste Detection – YOLOv8 + Super-Resolution  
 **Final-Year Internship – Caplogy | Apr. 2025 – Sep. 2025**
 - Implemented an automatic detection system using YOLOv8.
 - Integrated a Super-Resolution (SSR) module to enhance
@@ -78,7 +71,7 @@
 
 ---
 
-### 📨 Spam Classification with NLP & LLM  
+###  Spam Classification with NLP & LLM  
 **University of Lorraine | Oct. 2024 – Feb. 2025**
 - Spam detection using a BiLSTM model.
 - Integrated an LLM (Groq) to improve semantic classification.
@@ -88,7 +81,7 @@
 
 ---
 
-## 🛠 Technologies
+## Technologies
 
 **Languages**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -106,7 +99,7 @@
 
 ---
 
-## 🌍 Languages
+##  Languages
 - French: C1  
 - English: B2  
 - Arabic: bilingual  
@@ -114,12 +107,12 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tilleli&show_icons=true&theme=github_dark)
 
 ---
 
-## 📫 Contact
-- 📧 Email: [idertilleli@gmail.com](mailto:idertilleli@gmail.com)
-- 💼 LinkedIn: https://www.linkedin.com/in/tilleli-ider-b0ba18221
+##  Contact
+-  Email: [idertilleli@gmail.com](mailto:idertilleli@gmail.com)
+-  LinkedIn: https://www.linkedin.com/in/tilleli-ider-b0ba18221
 
